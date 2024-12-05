@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm CodinPanguin</h1>
-- **I like cats, and panguins and GNU/Linux based system**
-- **As my daily driver I use arch linux based distro named "NewPancakeOs"** *we ain't talking about what happend to the old one*
+<p>I like cats, and panguins and GNU/Linux based system</p>
+<p>As my daily driver I use arch linux based distro named "NewPancakeOs" (we ain't talking about what happend to the old one)</p>
 
 </p>
 
