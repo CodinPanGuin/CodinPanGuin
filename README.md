@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm CodinPanguin</h1>
-<p>I like cats, and panguins and GNU/Linux based system</p>
-<p>As my daily driver I use arch linux based distro named "NewPancakeOs" (we ain't talking about what happend to the old one)</p>
+- ABOUT : I like cats, and panguins and GNU/Linux based system <br>
+- Website : https://codinpanguin.uk (wip) <br>
+- SETUP : 
 
-</p>
+- Daily Driver : Arch Linux based distro "NewPancakeOs"
+- Laptop : Nitro AN515-56
+- WM : Hyprland (Wayland)
+- Terminal : Kitty
+- Browser : css costumized FireFox
+- Editor : NeoVim / VS Code<br>
+
 
 
 
