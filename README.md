@@ -9,8 +9,3 @@
 - Terminal : Kitty
 - Browser : css costumized FireFox
 - Editor : NeoVim / VS Code<br>
-
-
-
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codinpanguin&theme=highcontrast&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
