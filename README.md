@@ -3,7 +3,7 @@
 - Website : https://codinpanguin.uk (wip) <br>
 - SETUP : 
 
-- Daily Driver : Arch Linux based distro "NewPancakeOs"
+- Daily Driver : Used to be Arch Linux for 3 years. Now I use NixOS. 
 - Laptop : Nitro AN515-56
 - WM : Hyprland (Wayland)
 - Terminal : Kitty
